@@ -1,7 +1,7 @@
 <?php
 
 // TADY ZMĚŇ ÚDAJE PODLE RENDERU (Sekce Connections -> tabulka)
-$host = "dpg-d6g64ga4d50c73djoosg-a"; // Např. dpg-xxxx.frankfurt-postgres.render.com
+$host = "postgresql://progressdb_user:TXbwtrtm4YkaZdhRMAE2se4JLrekhPVV@dpg-d6g64ga4d50c73djoosg-a.frankfurt-postgres.render.com/progressdb"; // Např. dpg-xxxx.frankfurt-postgres.render.com
 $dbname = "progressdb"; // Např. progress_db
 $user = "progressdb_user"; // Tvůj username
 $password = "TXbwtrtm4YkaZdhRMAE2se4JLrekhPVV"; // Tvé heslo
